@@ -1,6 +1,8 @@
 # PyComp
 
 Por hacer: 
+  
+  - File picker para interfaz
 
   -Crear analizador lexico
   
